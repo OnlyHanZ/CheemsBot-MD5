@@ -21,10 +21,10 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
+global.owner = ['62895627514070'] //ur number
+global.ownernomer = "62895627514070" //ur number
+global.ownertag = '62895627514070' //ur tag number
+global.premium = ['62895627514070'] //ur premium number
 global.botname = 'Cheems Bot V5' //ur bot name
 global.ownername = "🦄Dream Guy Xeon"
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
